@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I am currently learning about GitHub and I am currently working on an online converter for _Solanum tuberosum_ genes. The idea is that it allows to convert PGSC format to the modern SOLTU, and viceversa.
 <!--
 **jicortelezzi/jicortelezzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
